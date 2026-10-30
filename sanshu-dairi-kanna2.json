@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/dairi-kanna2",
  "yomi": "だいりうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（20番）",
+  "era": "寛和2年（986）6月",
+  "author": "主催 花山天皇／判者 入道中納言",
+  "desc": "花山天皇の内裏の歌合。霞・鶯・子日から祝・恋まで20題を、藤原惟成・斉信・道長らが詠み、藤原公任が講師を務めた。"
+ },
  "editions": [
   {
    "pid": "1128193",
